@@ -1,8 +1,8 @@
-- Öncelikle Selamun Aleyküm
-- Hi, I’m @ibrahimErgun05
+- Öncelikle Selamun Aleyküm,
+- Hi, I’m @ibrahimErgun05.
 -  
 -  I’m interested in Kickbox, MMA, Unity Game Development and Code.
 -  İlgi Alanlarım Kickbox, MMA, Unity Oyun Geliştirme ve Kodlama.
 - 
--  I’m currently learning Basic Medic Skills
--  Tıbbi bilgiler öğrenmeye çalışıyorum
+-  I’m try to learning Basic Medic Skills and Unity.
+-  Tıbbi bilgiler ve Unity öğrenmeye çalışıyorum.
